@@ -6,6 +6,7 @@
 			<initialDuration>-1</initialDuration>
 			<progressionFactor>1</progressionFactor>
 		</suspendOnFailure>
+		
 		<markForSuspension>
 			<retriesBeforeSuspension>0</retriesBeforeSuspension>
 		</markForSuspension>
